@@ -56,7 +56,8 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.20.3",
     "eslint-plugin-react-hooks": "^4.0.8",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "sonarqube-scanner": "^2.8.1"
   },
   "jest": {
     "snapshotSerializers": [
